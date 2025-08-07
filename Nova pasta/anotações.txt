@@ -1,0 +1,7 @@
+echo = é a mesma coisa que print, console.log, etc.
+@echo off = desabilita o echo (não mostra os comandos no terminal)
+@echo on = habilita o echo (mostra os comandos no terminal)
+set /p = input do usuário (leitura de dados no batch)
+cls = limpa o terminal
+pause = pausa o terminal até pressionar uma tecla
+::=commentário (tudo que vem depois de :: é ignorado)
