@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1755124158 source:c:\users\aluno\desktop\aluno\imc\main.cpp
+	<iostream>
+	<cmath>
+
