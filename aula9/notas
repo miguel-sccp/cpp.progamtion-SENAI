@@ -1,0 +1,12 @@
+laço de repetição while
+
+Um laço de repetição tambem conhecido como estrutura de repetição é uma construção
+em progamação que permite executar um bloco de código várias vezes, enquanto um blo-
+co de condição for verdadeiro.
+
+O while testa uma condição antes de exucutar um bloco 
+
+sintaxe:
+while(consição){
+    //bloco de código a ser repitido
+}
