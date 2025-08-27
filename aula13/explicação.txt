@@ -1,0 +1,25 @@
+Uma variável em C++ é como uma caixinha na memória do computador. Essa caixinha tem:
+
+Um nome (pra você identificar depois);
+
+Um tipo (pra dizer que tipo de coisa pode guardar: número inteiro, número decimal, letra, texto etc.);
+
+Um valor (o que você coloca dentro dela).
+
+int → guarda números inteiros (ex: 5, -10, 200).
+
+tipos básicos mais usados:
+float / double → guarda números decimais, quebrados (ex: 6.5, 3.14).
+
+char → guarda só um caractere (ex: 'a', 'S', '9').
+
+string → guarda texto (ex: "Oi", "Manuela").
+
+bool → guarda verdadeiro (true) ou falso (false).
+Como funciona
+
+Quando você escreve int idade = 16; → você tá criando uma caixinha chamada idade que guarda o número inteiro 16.
+
+Quando escreve float nota = 7.5; → tá criando uma caixinha que pode guardar número quebrado.
+
+Quando usa char letra = 'A'; → só uma letra cabe nessa caixinha.
