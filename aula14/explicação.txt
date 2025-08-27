@@ -1,0 +1,15 @@
+Vetores (arrays):
+    *Vetor (arrays) é um cunjunto de elementos do mesmo tipo 
+    armazanamento do emsmo tipo amarzenadas em posiçoes sequencias na memoria 
+    *Cada elemento é acessado por um índice
+    *Útil para guardar lista de dados
+Declaração de vetores:
+    tipo =(int,float,char)
+    nome = nome do vetores
+    tamanho= quantidade de elementos 
+exemplos:
+int numero[5]
+
+para limpar a tela:
+#include <stdlib.h>
+system("cls");
